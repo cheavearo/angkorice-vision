@@ -2,3 +2,8 @@ venv/
 .env
 research/
 dataset/
+logs/
+
+xception_fine_tuned_rice_leaf_model_25.h5
+xception_fine_tuned_rice_leaf_model_25.keras
+xception_fine_tuned_rice_leaf_model_30.keras

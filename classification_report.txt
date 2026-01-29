@@ -1,0 +1,13 @@
+                 precision    recall  f1-score   support
+
+Bacterialblight     0.9682    0.9552    0.9616       223
+          Blast     0.9949    0.9327    0.9628       208
+      Brownspot     0.9737    0.9867    0.9801       225
+    Healthyleaf     0.9851    1.0000    0.9925        66
+      Leafscald     0.8310    0.9365    0.8806        63
+   Sheathblight     0.9412    1.0000    0.9697        64
+         Tungro     1.0000    1.0000    1.0000       131
+
+       accuracy                         0.9684       980
+      macro avg     0.9563    0.9730    0.9639       980
+   weighted avg     0.9699    0.9684    0.9686       980
