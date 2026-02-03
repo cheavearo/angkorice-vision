@@ -16,8 +16,6 @@ def sum():
     except Exception as e:
         raise AngkoriceVisionException(e, sys)
 
-    
-
 result = sum()
 print(result)
 

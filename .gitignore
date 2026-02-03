@@ -1,8 +1,10 @@
 venv/
 .env
-research/
 dataset/
 logs/
+model/
+research/training_results_v1/rice_leaf.mp4
+research/project photos/
 
 xception_fine_tuned_rice_leaf_model_25.h5
 xception_fine_tuned_rice_leaf_model_25.keras
