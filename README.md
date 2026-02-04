@@ -43,25 +43,16 @@ This project we use the pre-trained model Xception as the base model. And there 
 ## 4. Results Analysis
 ### 4.1. Training Accuracy and Loss Graph
 **Feature Extraction Training**: We observed, for the first 15 epochs, both training and validation accuracy graphs show gradually increasing and continous learning behavoir, from 39% and 47% of training and validation accuracies, respectively, both reach up to 78%. For training and validation cross entropy losses are smoothly descreasing from 1.66 and 1.45 to 0.66 and 0.70, respectively.
-<<<<<<< HEAD
-![Feature Extraction Training](research\training_results_v1/feature_extraction_training_acc_and_loss_graph.png)
+
+![Feature Extraction Training](https://github.com/cheavearo/angkorice-vision/blob/25a8a257adaeb0b23f9eede4c7a3f51945cbbd74/research/training_results_v1/feature_extraction_training_acc_and_loss_graph.png)
 
 **Fine Tuning Training**: The model demonstrated continuous learning, with training and validation accuracies reaching 97.10% and 96.26%, respectively.
-![Fine Tuning Training Training](research\training_results_v1/fine_tuning_training_acc_and_loss_graph.png)
+![Fine Tuning Training Training](https://github.com/cheavearo/angkorice-vision/blob/25a8a257adaeb0b23f9eede4c7a3f51945cbbd74/research/training_results_v1/fine_tuning_training_acc_and_loss_graph.png)
 ### 4.2. Testing With Testing Dataset (Unseen Dataset)
 ### 4.3. Confusion Matrix and Classification Report
 **Confusion Matrix**:
-![Confusion Matrix](research\training_results_v1/confusion_matrix.png)
-=======
-![Feature Extraction Training](research\training_results_v1\feature_extraction_training_acc_and_loss_graph.png)
+![Confusion Matrix](https://github.com/cheavearo/angkorice-vision/blob/25a8a257adaeb0b23f9eede4c7a3f51945cbbd74/research/training_results_v1/confusion_matrix.png)
 
-**Fine Tuning Training**: The model demonstrated continuous learning, with training and validation accuracies reaching 97.10% and 96.26%, respectively.
-![Fine Tuning Training Training](research\training_results_v1\fine_tuning_training_acc_and_loss_graph.png)
-### 4.2. Testing With Testing Dataset (Unseen Dataset)
-### 4.3. Confusion Matrix and Classification Report
-**Confusion Matrix**:
-![Confusion Matrix](research\training_results_v1\confusion_matrix.png)
->>>>>>> b03086c (Updating README.md)
 ### 4.2. Testing With Testing Dataset (Unseen Dataset)
 Our model is evaluated with the testing dataset contains 542 images over 7 classes with testing accuracy 96.84% and test loss 0.1149.
 
