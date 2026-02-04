@@ -74,7 +74,7 @@ Overall accuracy: 96.84% | Balanced precision, recall, and F1-score across 7 ric
 | **Weighted Average** | 0.9699    | 0.9684 | 0.9686     | 980     |
 
 ## 5. Future Improvement
-Even our pre-trained Xception model has achieved around 97% on training, validation and testing datasets, we are considering to train the model with variations of image datasets (example: rice field and white background laboractory image of rice leaf images). Moreover, the reliability of our **AI-Powered Rice Crop Disease Detection** is rquired, hence we need to monitor on data drift and model drift for automacally training in our system.
+Even our pre-trained Xception model has achieved around 97% on training, validation and testing datasets, we are considering to train the model with variations of image datasets (example: rice field and white background laboractory image of rice leaf images). Moreover, the reliability of our **AI-Powered Rice Crop Disease Detection** is necessary, hence we plan to monitor on data drift and model drift for automacally training pipeline in our system.
 ## 6. Run The Application
 - **Command Promp to run the app**
 
