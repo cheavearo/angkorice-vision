@@ -1,7 +1,7 @@
 # 🌾 Angkorice Vision
 ## 1. Problem Statement
 
-**Angkorice Vision Rice Leaf Disease Detection & Advisory System** is an AI-powered rice disease detection system using deep learning to classify rice leaf diseases and provide treatment recommendations to farmers.
+**Angkorice Vision Rice Leaf Disease Detection System** is an AI-powered rice disease detection system using deep learning to classify rice leaf diseases and provide treatment recommendations to farmers.
 
 ## 2. Dataset Details
 ### 📚 Dataset Summary
